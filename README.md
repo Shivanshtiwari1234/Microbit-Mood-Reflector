@@ -1,11 +1,11 @@
 
-> Open this page at [https://shivanshtiwari1234.github.io/microbit-mood-reflector/](https://shivanshtiwari1234.github.io/microbit-mood-reflector/)
+> Open this page right [here](https://shivanshtiwari1234.github.io/Microbit-Mood-Reflector/)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/shivanshtiwari1234/microbit-mood-reflector** and import
